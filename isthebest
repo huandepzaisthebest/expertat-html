@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<h1>How to make a HTML website </h1>
+</head>
+<body>
+    <img src="data:image/png;base64,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"
+    <h2>
+        
+        Things you <strong>need</strong> (important)</h2>
+    <ul>
+        <li>A <strong>Computer</strong></li>
+        <li>A <strong>HTML programme</strong><em>(recommend Visual Studio Code</em>)</li>
+        <li><strong>Browser</strong></li>
+    </ul>
+    <h4><em>After you've got all of that things above, you can start making a HTML!</em></h4>
+<hr>
+<p>First you need to create a blank/new docutement of your HTML programme.<br> After that you write your own code(<em> we will list the very basic codes under the tutorial</em>)<br>
+After finished writting your code, you now save your work and write it's name with the end of ".htm/.html".<br> Now open it and your HTML is done!!! </p>
+<hr>
+<h1>The Very Basic Command</h1>
+<P>You can follow this link to learn more!!<a href="http://google.com" target="_blank"> Click Here</a>
+</P>
+<P>http://google.com</P>
+<img src="https://img-cache.coccoc.com/image2?i=3&l=41/355646522"
+<p>Thank You For Reading the Tutorial!!!</p>
+<h1><em>THANK YOU</em> </h1>
+<h4>Contact Us</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Facebook</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><em>Nguyen Ba Huan</em></td>
+            <td>nguyenbahuan09@gmail.com</td>
+            <td><em>Huan Nguyen Ba</em></td>
+        </tr>
+    </tbody>
+</table>
+<hr>
+<h4>Leave for Info here so that we can contact you and you can know more about Coding!!</h4>
+<!--Form-->
+<form action="process.php" method="POST">
+    <div>
+    <label>First Name</label>
+    <input type="text" name="first-name"
+    placeholder="Enter first name">
+</div>
+    <div>
+        <label>Last Name</label>
+        <input type="text" name="last-name"
+        placeholder="Enter last name">
+    </div>
+    <div>
+    <label>Email</label>
+        <input type="email" name="email"
+        placeholder="Enter email">
+</div>
+<br>
+<div>
+    <label>Message</label>
+    <textarea name="message"></textarea
+        placeholder="message us if you want to learn more!">
+</div>
+<br>
+<div>
+    <label>Gender</label>
+    <select name="Gender">
+        <option> Choose</option>
+        <option> Male</option>
+        <option> Female</option>
+    </select>
+</div>
+<br>
+<div>
+    <label>Age:</label>
+    <input type="age" name="age">
+</div>
+<br>
+<div>
+    <label>birthday</label>
+   <input type="date" name="birthday">
+</div>
+<br>
+<input type="submit" name="submit"
+value="Submit">
+
+    </form>
+    <!--Button-->
+    <button click="someFunction">Click Me</button>
+    <!--Quotation-->
+    
+
+    <div style="margin-top: 500px"></div>
+    
+
+
